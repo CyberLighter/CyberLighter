@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CyberLighter
 - 👀 I’m interested in Security
-- 📫 How to reach me antoine.briquet@swile.co
 
 <!---
 CyberLighter/CyberLighter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
