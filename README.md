@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @CyberLighter
-- 👀 I’m interested in Security
+- 👋 Hi, I’m @CyberLighter 🏴‍☠️ 
 
 <!---
 CyberLighter/CyberLighter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
